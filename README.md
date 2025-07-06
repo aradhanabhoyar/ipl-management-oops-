@@ -7,10 +7,13 @@ Name : Rohit Sharma
 Runs : 540
 Wickets : 0
 Team Name : Mumbai Indians
+
 Top Bolwer
 Noor Ahmad(CSK)- Wickets : 24
+
 Top Batsman
 Virat Kohli(RBC) - Runs : 741
+
 All Rounder
 
 Jersey no: 11
